@@ -1,0 +1,15 @@
+print("Welcome to #hardForkUp! A tip calculator.")
+
+bill = float(input("What is the total bill?"))
+
+tip = float(input("What percentage would you like to tip?"))
+
+parties = int(input("How many parties are splitting the bill?"))
+
+tip_perc = tip / 100
+total_tip = bill * tip_perc
+total_bill = bill + total_tip
+bill_per_party = total_bill / parties
+total_amount_clean_looking = round(bill_per_party, 2)
+
+print(f"Everyone should fork up {total_amount_clean_looking}.")
