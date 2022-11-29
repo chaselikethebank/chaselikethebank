@@ -1,5 +1,5 @@
 + 👋 Hi, I’m @chaselikethebank
-+ 👀 I’m interested in from pinky_and_the_brain import plans.
++ 👀 I’m interested in all things code and triathlon.
 + 🌱 I’m currently learning how to stand and type at the same time. 
 + 💞️ I’m looking to collaborate on ROI.
 + 📫 How to reach me, peer to peer. 
