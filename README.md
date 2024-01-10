@@ -4,7 +4,4 @@
 + 👽 I’m looking to build small tech.
 + 📫 Reach via pr. 
 
-<!---
-chaselikethebank/chaselikethebank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![developers](https://c.tenor.com/aHyTAW8yweQAAAAC/tenor.gif)
