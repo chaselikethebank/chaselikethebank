@@ -1,8 +1,7 @@
 + 🧑🏻‍💻 Hi, I’m @chaselikethebank
-+ 🚀 I’m interested in all things code and base.
-+ 🌱 I’m currently learning how to stand and strong type at the same time. 
-+ 👽 I’m looking to build small tech.
-+ 📫 Reach via pr. 
++ 🚀 I’m interested in all things tech.
++ 🌱 I’m currently FED durring the day and teaching full stack at night. 
++ 👽 I’m looking to build something small.
++ 📫 I love emails. 
 
-![developers](https://c.tenor.com/aHyTAW8yweQAAAAC/tenor.gif)
-![done](https://fireship.io/courses/react-next-firebase/img/prizes/8.webp)
+![i built a compiler](https://i.kym-cdn.com/photos/images/original/001/443/314/438.jpg)
