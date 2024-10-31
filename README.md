@@ -3,7 +3,7 @@
 # 💻 Stack:
 I like Rails and Laravel and tend to go there for MVPs and smaller team projects. I end up working in .NET in larger conservative builds. I'm excited to do more with fewer frontend frameworks and explore this new HTMX paradigm. 
 # ⌚ Next Steps:
-I am currently spending a lot on cloud deployments, so, I am learning more about servers, firewalls and self-hosting in general. 
+I am currently spending a lot +/- on cloud deployments. So, as a way to insulate, I am learning more about servers, firewalls and self-hosting in general. 
 
 <!--
 # 📊 GitHub Stats:
