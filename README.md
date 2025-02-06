@@ -1,5 +1,5 @@
 # 💫 About Me:
-+ 🧑🏻‍💻 Hi, I’m @chaselikethebank<br>+ 🚀 I’m interested in all things tech, entrepreneurship, and triathlon.<br>+ 🌱 I’m currently a fullstack developer durring the day, I mentor inspired young devs as a prof at night, and a musician on the weekend. <br>+ 👽 I’m am always building something.<br>+ 📫 I ltry and becareful w what I get good at. <br>
++ 🧑🏻‍💻 Hi, I’m @chaselikethebank<br>+ 🚀 I’m interested in all things tech, entrepreneurship, and triathlon.<br>+ 🌱 I’m currently a fullstack developer durring the day, a mentor/ professor at night, and a musician on the weekend. <br>+ 👽 I’m am always building something.<br>+ 📫 I ltry and becareful w what I get good at. <br>
 # 💻 Stack:
 I like MERN, Rails and Laravel and tend to go with one of those for MVPs, micro services or smaller team projects. It seems like I end up working in .NET in larger conservative builds. I'm always excited about SQLite rn. Over 1B deployments to date 🚀
 # ⌚ Next Steps:
