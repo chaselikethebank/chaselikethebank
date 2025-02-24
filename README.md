@@ -5,7 +5,7 @@ I like MERN, Rails and Laravel and tend to go with one of those for MVPs, micro 
 # ⌚ Current Step:
 I am currently spending a lot +/- on cloud deployments. So, as a way to insulate, I am learning more about servers, firewalls and self-hosting in general.
 # 🚀 What if: 
-I can appreciate that websites and UIs are going to be radically different in the short term. Soon, all we will need is a DB (think content) → retrieval/LLM → APIs and Chat. No heroes, no parallax, no border radius... just users with problem sets → data retrieval → dynamic solutions. In this new paradigm, it is easy to see that a website with a navbar to all the content leverages the user's time unnecessarily.
+I can appreciate that websites and UIs are going to be radically different in the short term. Soon, all we will need is a DB (think content) → retrieval/LLM → APIs and Chat. No heroes, no parallax, no border radius... just users with problem sets → data retrieval → dynamic solutions. In this new paradigm, it is easy to see that a website with a navbar to all the content leverages the user's time unnecessarily. So, no more navs... Super excited about what these new UIs will be and how much of the web UX will fundamentally be rebimagined from first principles.
 
 <!--
 # 📊 GitHub Stats:
